@@ -24,8 +24,8 @@ A multi-page tutorial platform for learning programming languages including **Py
 ## 📸 Screenshots
 
 ![Home](pl.png)
-![Python Tutorial](pl1.png)
-![Java Section](pl2.png)
+![Python Tutorial](pl2.png)
+![Java Section](pl3.png)
 
 ---
 
